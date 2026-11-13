@@ -1,0 +1,12 @@
+{
+  "kind": "system",
+  "name": "Projektname",
+  "repository": "https://github.com/OWNER/REPO",
+  "courseVersion": "0.1.0-preview.1",
+  "systemId": "system-id",
+  "e2e": {
+    "repository": "https://github.com/OWNER/E2E-REPO",
+    "localPath": "../gruppen-e2e",
+    "revision": "40-stelliger Commit der gemeinsamen Vorgaben"
+  }
+}

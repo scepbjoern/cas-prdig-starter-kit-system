@@ -1,0 +1,2 @@
+/* Neutrale Basis. Projektspezifische Gestaltung aus dem Design Brief ergänzen. */
+*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;color:#17212b;background:white}main{max-width:72rem;margin:3rem auto;padding:0 1.5rem}button,input,select,textarea{font:inherit}button,a,input,select,textarea{outline-offset:3px}

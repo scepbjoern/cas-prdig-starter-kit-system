@@ -1,0 +1,18 @@
+{
+  "systemId": "system-id",
+  "title": "Titel des konkreten Systems",
+  "description": "Zweck aus dem PRD",
+  "port": 3101,
+  "ui": true,
+  "e2ePath": "../gruppen-e2e",
+  "e2eRevision": "40-stelliger Commit",
+  "contracts": [
+    "contracts/interface-system.md",
+    "contracts/data-shared.md"
+  ],
+  "documents": {
+    "prd": "docs/prd.md",
+    "architecture": "docs/system-architecture.md",
+    "design": "docs/design-brief.md"
+  }
+}
