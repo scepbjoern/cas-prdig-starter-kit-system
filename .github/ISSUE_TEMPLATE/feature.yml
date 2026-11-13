@@ -1,0 +1,34 @@
+name: Feature
+description: Fachlich abgrenzbarer Auftrag mit Verantwortung und Abnahmekriterien.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Ziel und Umfang
+      description: Welche Fähigkeit soll entstehen, was gehört ausdrücklich nicht dazu?
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Fachlich verantwortliche Person
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Grundlagen und Abhängigkeiten
+      description: PRD, Architektur, Design Brief, E2E-Vertragsrevision und abhängige Issues verlinken.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Akzeptanzkriterien und relevante Szenarien
+      description: Ausgangsdaten, Aktionen und erwartete Ergebnisse gemeinsam fachlich festlegen.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Plan, Prüfstand und Abnahme
+      description: Feature Plan und tatsächliche Nachweise verlinken. Menschliche Abnahme erst nach ihrer Entscheidung festhalten.

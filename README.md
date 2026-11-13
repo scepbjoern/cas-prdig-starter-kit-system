@@ -19,3 +19,5 @@ Das empfohlene Webprofil verwendet Next.js, React und TypeScript. Es wird erst d
 Auth, Datenbank, Upload und KI-Anbindung werden nur bei Bedarf projektspezifisch ergänzt. Keine Beispielrollen, Datenbanktabellen oder vorgegebenen Fachmasken werden erzwungen. Für eine native Windows-App oder einen anderen Stack gelten dieselben Planungs- und Abnahmeregeln; dessen Aufbau wird separat erprobt.
 
 [Workflow](docs/course/PIV-WORKFLOW.md) · [Darstellungen](docs/course/DIAGRAMS.md) · [Glossar](docs/course/GLOSSARY.md) · [Zusammenarbeit](docs/course/COLLABORATION.md) · [Prüfstand](VALIDATION.md)
+
+[Werkzeuge und Übergaben](docs/course/TOOLS.md). Für neue GitHub-Aufträge steht eine passende Issue-Vorlage bereit.
