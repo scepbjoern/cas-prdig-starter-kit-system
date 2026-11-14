@@ -21,3 +21,9 @@ Auth, Datenbank, Upload und KI-Anbindung werden nur bei Bedarf projektspezifisch
 [Workflow](docs/course/PIV-WORKFLOW.md) · [Darstellungen](docs/course/DIAGRAMS.md) · [Glossar](docs/course/GLOSSARY.md) · [Zusammenarbeit](docs/course/COLLABORATION.md) · [Prüfstand](VALIDATION.md)
 
 [Modellwahl und Denkstufen](docs/course/MODEL-POLICY.md) · [Werkzeuge und Übergaben](docs/course/TOOLS.md). Für neue GitHub-Aufträge steht eine passende Issue-Vorlage bereit.
+
+## Einen Skill einzeln kennenlernen
+
+Ein Skill besteht aus `SKILL.md` und bei Bedarf zugehörigen Vorlagen oder Hilfsdateien. Für [define-system-design](.agents/skills/define-system-design) ist die [Design-Brief-Vorlage](.agents/skills/define-system-design/assets/DESIGN-BRIEF.md) direkt enthalten. Lasst euren Agenten den vollständigen Skill-Ordner installieren, wenn ihr ohne vollständiges System-Kit arbeitet. Im System-Kit ist er bereits vorhanden.
+
+Beispielauftrag: «Nutze den Skill define-system-design. Erarbeite mit mir für [System und Nutzeraufgabe] einen Design Brief. Verwende diese Referenzen, kläre nur wesentliche Lücken und baue zunächst noch keine Anwendung.» Ein Skill beschreibt ein Vorgehen; er wechselt weder automatisch das Modell noch erzeugt er von selbst einen unabhängigen Chat.

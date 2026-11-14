@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0-preview.3 – 14.11.2026
+
+Sprechende Diagramm-Dateinamen und kompakte Unterrichtsansichten; direkte Verweise auf die Grafiken. Common-Dateien bewusst synchronisiert. Design-Skill mit enthaltener Vorlage auch einzeln installierbar; Anleitung im Einstieg ergänzt.
+
 ## 0.1.0-preview.2 – 14.11.2026
 
 Common 0.1.0-preview.2 bewusst übernommen: Modellrichtlinie mit Astra, Sol und Luna sowie Antigravity Carbon/Argon/Hydrogen. Modellwahl in Projektanweisungen und Einstieg verankert; aktualisierte Kontextaufnahme, unabhängiger Architekturreview und Übergabevorlage. Keine automatische Modellumschaltung und keine neue Abgabepflicht.
