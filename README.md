@@ -20,4 +20,4 @@ Auth, Datenbank, Upload und KI-Anbindung werden nur bei Bedarf projektspezifisch
 
 [Workflow](docs/course/PIV-WORKFLOW.md) · [Darstellungen](docs/course/DIAGRAMS.md) · [Glossar](docs/course/GLOSSARY.md) · [Zusammenarbeit](docs/course/COLLABORATION.md) · [Prüfstand](VALIDATION.md)
 
-[Werkzeuge und Übergaben](docs/course/TOOLS.md). Für neue GitHub-Aufträge steht eine passende Issue-Vorlage bereit.
+[Modellwahl und Denkstufen](docs/course/MODEL-POLICY.md) · [Werkzeuge und Übergaben](docs/course/TOOLS.md). Für neue GitHub-Aufträge steht eine passende Issue-Vorlage bereit.
