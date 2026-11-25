@@ -2,7 +2,7 @@
   "kind": "system",
   "name": "Projektname",
   "repository": "https://github.com/OWNER/REPO",
-  "courseVersion": "0.1.0-preview.1",
+  "courseVersion": "0.1.0-preview.4",
   "systemId": "system-id",
   "e2e": {
     "repository": "https://github.com/OWNER/E2E-REPO",

@@ -2,6 +2,7 @@
 
 System-ID / verantwortliche Personen / Revision:
 E2E-Quellen und Vertragsrevision:
+Gezielt verwendete Berichts-/Soll-/Datenquellen mit Fundstellen und relevanten Potenzial-/Anforderungs-IDs (innerhalb des bestätigten Bauauftrags):
 
 ## Zweck, Nutzer und Systemgrenze
 Beitrag zum gemeinsamen Prozess, fachliche Aufgaben und klare Nicht-Ziele.
