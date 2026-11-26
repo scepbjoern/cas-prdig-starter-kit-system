@@ -9,3 +9,5 @@ description: "Aktualisiert einen Feature Plan bei geklärten Änderungen und sti
 Lies Plan, Issue, aktuelle Vorgaben und konkrete Erkenntnisse. Technische Abweichungen begründen, fachliche Änderungen mit der verantwortlichen Person klären.
 Aktualisiere Kriterien, Szenarien, Daten, betroffene Teile und Checks gemeinsam. Bei zu grossem Umfang Issue-Teilung mit Verweisen und späterem Milestone erwägen.
 Ein wesentlich neu geplanter Umfang geht wieder an einen getrennten Implementierungskontext. Der laufende Implementierer darf lokale technische Korrekturen dokumentieren; daraus wird keine Erlaubnis, neue fachliche Planung und Umsetzung zusammenzulegen.
+
+Beauftragte eigene Ergebnisänderungen gemäss den gemeinsamen Sicherungsregeln und Skill commit passend prüfen, gezielt committen und auf den vorgesehenen GitHub-Branch pushen; Remote-Stand prüfen. Offene fachliche Klärung und rein lesende Arbeit erzeugen keinen automatischen Speicherauftrag.

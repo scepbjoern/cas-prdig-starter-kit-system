@@ -3,8 +3,8 @@
 Ein Repository pro gebautem oder gemocktem System, für eine oder mehrere Personen. Es enthält noch keine laufende Fachanwendung und kein Demo-Datenmodell. Die Agents bauen aus euren Vorgaben den passenden Startpunkt auf.
 
 1. «Richte mit init-project unser System-Projekt ein.» Zugriff auf das gemeinsame E2E-Projekt prüfen.
-2. System-PRD erstellen; erste Ausbaustufe genau, spätere Erweiterungen grob. Designgrundsätze und System Architecture erarbeiten.
-3. PRD und Architektur in frischen unabhängigen Chats prüfen und die Befunde integrieren.
+2. Ein gemeinsames System-PRD erstellen; erste Ausbaustufe genau, spätere Erweiterungen grob. Bei mehreren beteiligten Personen führt eine Person die Planung und stimmt sie mit den anderen ab. PRD in einem frischen unabhängigen Chat prüfen, Befunde im ursprünglichen Autorenchat integrieren und die Ergebnisse gemeinsam lesen.
+3. Bei GUI Designgrundsätze, danach System Architecture erarbeiten. Architektur in einem frischen unabhängigen Chat prüfen und Befunde im Autorenchat integrieren. Bestätigte fachliche Entscheidungen sichern.
 4. Features mit Verantwortung und Abhängigkeiten ableiten; mit bootstrap-system den projektspezifischen Startpunkt erzeugen.
 5. Feature-Planung durch A, Implementierung und Validierung durch B; anschliessend eure fachliche Abnahme.
 

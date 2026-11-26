@@ -4,17 +4,17 @@ System-ID / verantwortliche Personen / Revision:
 E2E-Quellen und Vertragsrevision:
 Gezielt verwendete Berichts-/Soll-/Datenquellen mit Fundstellen und relevanten Potenzial-/Anforderungs-IDs (innerhalb des bestätigten Bauauftrags):
 
-## Zweck, Nutzer und Systemgrenze
+## 1 Zweck, Nutzer und Systemgrenze
 Beitrag zum gemeinsamen Prozess, fachliche Aufgaben und klare Nicht-Ziele.
 
-## Anforderungen und Prioritäten
+## 2 Anforderungen und Prioritäten
 Erste Ausbaustufe konkret: Nutzeraufgaben, Regeln, Akzeptanzkriterien, Daten und relevante Fehlerfälle. Spätere Erweiterungen zunächst grob. Verweise auf gemeinsame Verträge statt widersprüchlicher Kopien.
 
-## Featureübergreifende Testszenarien
+## 3 Featureübergreifende Testszenarien
 Mit Menschen vereinbarte Ausgangslage, Daten, Aktionen und erwartete Ergebnisse. Systemübergreifende Tests ins E2E-Projekt verlinken.
 
-## Fachliche Feature-Übersicht
+## 4 Fachliche Feature-Übersicht
 Fähigkeiten und fachliche Zusammenhänge. Arbeitsstatus und ausführbare Aufteilung liegen in GitHub Issues, nicht in einer parallelen PRD-Taskliste.
 
-## Design, Architektur und offene Entscheidungen
+## 5 Design, Architektur und offene Entscheidungen
 Verweise auf Design Brief / System Architecture und Review-Behandlung. Änderungen mit Datum/Grund.

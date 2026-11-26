@@ -11,3 +11,5 @@ Bei offener fachlicher Klärung docs/course/PLANNING-DIALOGUE.md beachten; ein k
 Lies das PRD, Änderungsgrund, aktuelle E2E-Vorgaben und betroffene Issues/Pläne. Prüfe, ob neue Erkenntnisse aus visuellen Entwürfen, Tests oder manuellen Markdown-Ergänzungen konsistent sind.
 Kläre fachliche Änderungen mit den Verantwortlichen, ändere nur betroffene Anforderungen und Szenarien, dokumentiere Grund/Stand. Aktualisiere abhängige Architektur, Design, Feature Plans oder Issues; keine Parallelversion als zweite Wahrheit anlegen.
 Bei wesentlichen Änderungen gezielter unabhängiger PRD-Review, bei redaktionellen Änderungen nicht. Spätere Ausbaustufen erst bei Bedarf genauer ausarbeiten.
+
+Beauftragte eigene Ergebnisänderungen gemäss den gemeinsamen Sicherungsregeln und Skill commit passend prüfen, gezielt committen und auf den vorgesehenen GitHub-Branch pushen; Remote-Stand prüfen. Offene fachliche Klärung und rein lesende Arbeit erzeugen keinen automatischen Speicherauftrag.

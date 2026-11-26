@@ -10,3 +10,5 @@ Du bist Implementierer B, nicht der Autor des Plans. Falls du ihn selbst geplant
 Implementiere innerhalb des vereinbarten Umfangs. Nutze bei Parallelität einen eigenen Branch/Worktree mit eigenem Testport und isolierten veränderlichen Testdaten. Keine Pflichtstopps nach technischen Tasks.
 Rufe validate-feature im selben Arbeitskontext auf. Behebe Befunde und wiederhole betroffene Tests, bis der Plan erfüllt ist oder eine echte fachliche Entscheidung/Blockade vorliegt. Keine Kriterien still abschwächen, Tests entfernen oder neue Features erfinden.
 Ergänze mit document die Bedien-/Demohinweise und belegten Prüfungen; sichere eigene Änderungen mit commit. Lege das Ergebnis der verantwortlichen Person mit Status Abnahme ausstehend vor. Technische Fertigstellung und autonomer Zielabschluss sind keine menschliche Annahme.
+
+Beauftragte eigene Ergebnisänderungen gemäss den gemeinsamen Sicherungsregeln und Skill commit passend prüfen, gezielt committen und auf den vorgesehenen GitHub-Branch pushen; Remote-Stand prüfen. Offene fachliche Klärung und rein lesende Arbeit erzeugen keinen automatischen Speicherauftrag.

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0-preview.5 – 26.11.2026
+
+Common-Regeln übernommen. Eine gemeinsame Planung je System; PRD-Review mit Rückweg, verständliche Integration, Dialogregeln für Design/Systemarchitektur und klare Reihenfolge bis zur Featureplanung. Systemvorlagen samt Design-Skill-Asset nummeriert.
+
 ## 0.1.0-preview.4 – 25.11.2026
 
 Fachliche Planungsdialoge: eigener Beitrag, Speicheraufträge, sichtbare offene Punkte und klarer Übergang. Eigenständig verständlicher Prototype Brief; gezielte Originalquellen für Architektur/PRDs. Plattformunabhängige Manifestprüfung mit Schutz echter Änderungen. Gemeinsame Dateien über Common verteilt. Praktischer Prüfstand und Grenzen in VALIDATION.md.

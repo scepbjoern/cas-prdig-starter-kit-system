@@ -11,3 +11,5 @@ Für das Webprofil folge docs/BOOTSTRAP.md und tools/bootstrap.mjs: zunächst Vo
 Auth, Persistenz, Upload, E-Mail und KI nur bei Bedarf. Eigene Tabellen/Rollen entstehen aus dem Projekt; keine Beispieldatenbank zurückbauen. Alternativstack separat passend aufbauen und prüfen.
 Installiere Abhängigkeiten, prüfe Typen/Build und starte tatsächlich auf dem vereinbarten Port. Prüfe Health und eine passende erste Ansicht beziehungsweise API. Dokumentiere die ausgeführten Checks und Grenzen; ein Build allein ist kein Laufnachweis.
 Grössere Fachfunktionen folgen über Feature Plans. Kein Code aus explorativen Mockups übernehmen.
+
+Beauftragte eigene Ergebnisänderungen gemäss den gemeinsamen Sicherungsregeln und Skill commit passend prüfen, gezielt committen und auf den vorgesehenen GitHub-Branch pushen; Remote-Stand prüfen. Offene fachliche Klärung und rein lesende Arbeit erzeugen keinen automatischen Speicherauftrag.
