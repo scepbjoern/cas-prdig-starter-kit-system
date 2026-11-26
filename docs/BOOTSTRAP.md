@@ -11,3 +11,11 @@ Der Agent verwendet bootstrap-system. Menschen bestätigen fachlichen Umfang und
 7. Passende GUI-Prüfung mit npm run test:e2e ausführen; vorab einen Playwright-Browser installieren oder einen vorhandenen unterstützten Browser wählen. TEST_PORT steuert einen separaten Testport. Ein tatsächlich ausgeführter Test wird dokumentiert.
 
 Eine andere Systemart darf ein anderes Profil nutzen. Diese Vorschau liefert nur den Webkern; sie behauptet keine geprüften Windows-/Mac-Desktop-Stacks oder fertigen Auth-/Datenbankmodule.
+
+## Datierter Webprofilstand
+
+Vor dem Aufbau profiles/web-next/PROFILE.md lesen und die tatsächlich verwendete Node-/npm-Version mit der Architektur abgleichen. Das Profil preview.6 wurde mit Node24.22.3/npm11.19.1 geprüft; neue Terminals nicht stillschweigend mit einer anderen globalen Laufzeit verwenden. Installierte Versionen dokumentieren. Paketdatei und Lockfile gemeinsam pflegen, keine pauschale latest-Auflösung.
+
+Das Kursprofil ist kein Upgrade-Skript für eine schon aufgebaute Anwendung. Bei vorhandenen eigenen Paketdateien eine beauftragte Migration mit Erhalt eigener Abhängigkeiten durchführen und passend nachtesten. Für einen Mock-Gesamtauftrag nach neutralem Bootstrap direkt den vereinbarten Umfang implementieren, validieren und zur menschlichen Abnahme geben; einzelne Feature Plans sind dafür keine Pflicht.
+
+bootstrap-system liefert das technische Fundament, nicht den vollständigen Gesamtbau. Für Mock-Umsetzung oder einen begrenzten Nicht-Mock-Bauversuch ruft der neue Implementierungschat build-system auf; dieser nutzt bootstrap-system bei Bedarf und übernimmt anschliessend Fachfunktionen, Prüfungen und Übergabe.

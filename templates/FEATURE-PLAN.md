@@ -8,7 +8,7 @@ PRD-, Architektur- und Design-Referenzen:
 Fachlich bestätigter Umfang und Grenzen. Keine stillen Erweiterungen.
 
 ## 2 Vereinbarte Szenarien
-| Szenario | Ausgangslage / Daten | Aktion | Erwartung | Geplante Prüfung |
+| Szenario-ID | Ausgangslage / Daten | Aktion | Erwartung | Geplante Prüfung |
 | --- | --- | --- | --- | --- |
 
 ## 3 Technischer Umsetzungsplan für B
@@ -19,3 +19,5 @@ Ein anderer Implementierer B liest diese Quellen im frischen Kontext, implementi
 
 ## 5 Änderungen
 Wesentliche Abweichungen begründen; neue fachliche Entscheidungen abstimmen. Menschliche Abnahme mit Person/Datum erst nach tatsächlicher Entscheidung dokumentieren.
+
+Referenzen: Abschnittsnummern und stabile IDs für einzeln besprochene Anforderungen, Kriterien, Szenarien, Fähigkeiten, Entscheidungen und Befunde verwenden. Bestehende IDs erhalten; natürliche eindeutige Schlüssel nicht unnötig duplizieren. Siehe COLLABORATION.md (im Kit docs/course/).

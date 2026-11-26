@@ -13,3 +13,5 @@ Navigation, Dichte, Typografie, Farben, wichtige Muster, Rückmeldungen und Bedi
 
 ## 4 Prüfbarkeit
 Woran erkennt die verantwortliche Person, dass der Stil und die Bedienung passen? Funktionen/Felder gehören ins PRD beziehungsweise den Feature Plan.
+
+Referenzen: Abschnittsnummern und stabile IDs für einzeln besprochene Anforderungen, Kriterien, Szenarien, Fähigkeiten, Entscheidungen und Befunde verwenden. Bestehende IDs erhalten; natürliche eindeutige Schlüssel nicht unnötig duplizieren. Siehe COLLABORATION.md (im Kit docs/course/).

@@ -13,3 +13,7 @@ Verbindliche Interface/Data Contracts referenzieren. Lokale Datenhaltung und Tes
 
 ## 4 Aufbau, Betrieb und Änderungen
 Minimaler Bootstrap, optionale Fähigkeiten nur bei Bedarf, Start-/Testbefehle, Review-Befunde und Auswirkungen von Änderungen.
+
+Versionen mit Prüfdatum und Quelle: getestetes Kursprofil oder begründete Abweichung, Node/npm und Paketstände; geplante gegenüber tatsächlich geprüfter Laufzeit unterscheiden. Umsetzungsweg: reguläre Feature-PIV oder Mock-Gesamtbau mit gezielten Änderungen.
+
+Referenzen: Abschnittsnummern und stabile IDs für einzeln besprochene Anforderungen, Kriterien, Szenarien, Fähigkeiten, Entscheidungen und Befunde verwenden. Bestehende IDs erhalten; natürliche eindeutige Schlüssel nicht unnötig duplizieren. Siehe COLLABORATION.md (im Kit docs/course/).
